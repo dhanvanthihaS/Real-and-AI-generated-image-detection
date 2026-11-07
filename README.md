@@ -91,15 +91,13 @@ A Gradio interface was developed to allow users to upload an image and receive a
 **Project Structure**
 
 
-
-AI-Generated-Image-Detection/
-
+Real-and-AI-generated-image-detection/
+│
 ├── README.md
-
 ├── requirements.txt
-
-└── final\_code.ipynb
-
+├── final_code.ipynb
+├── DINOv2_confusion_matrix.jpg
+└── resnet18_confusion_matrix.jpg
 
 
 **How to Run**

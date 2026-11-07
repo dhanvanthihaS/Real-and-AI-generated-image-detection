@@ -71,8 +71,15 @@ Dataset source: \[Kaggle CIFAKE Dataset](https://www.kaggle.com/datasets/birdy65
 |DINOv2|93.33|0.9333|
 |ResNet-18|98.05|0.9805|
 
+**Model Evaluation**
 
+### ResNet18 – Confusion Matrix
 
+![ResNet18 Confusion Matrix](resnet18_confusion_matrix.jpg)
+
+### DINOv2 – Confusion Matrix
+
+![DINOv2 Confusion Matrix](DINOv2_confusion_matrix.jpg)
 
 
 **User Interface**
